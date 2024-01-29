@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 💼I currently work with Amazon.
 - ☺️I love coding and learning new stuff about web development and learning new languages.
   ![cute girl coding](np9f_leld_220705.jpg)
+  <img src="np9f_leld_220705.jpg" height="200px" alt="cute girl coding">
