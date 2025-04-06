@@ -14,3 +14,6 @@ I'm a Full Stack Web Developer passionate about building interactive and user-ce
 - ☺️I love coding and learning new stuff about web development and learning new languages.
  <!-- ![cute girl coding](np9f_leld_220705.jpg)-->
  <img src="np9f_leld_220705.jpg" height="500px" alt="cute girl coding">
+ ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
