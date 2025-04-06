@@ -12,6 +12,8 @@ I'm a Full Stack Web Developer passionate about building interactive and user-ce
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanKaur1011&layout=compact)
 
 ![Aman's Contribution Calendar](https://github-readme-activity-graph.cyclic.app/graph?username=AmanKaur1011&theme=github)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmanKaur1011&theme=dark)
+![Aman's Activity Graph](https://activity-graph.herokuapp.com/graph?username=AmanKaur1011&theme=react)
 
 
 
