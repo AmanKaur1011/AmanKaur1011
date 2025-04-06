@@ -8,11 +8,11 @@ I'm a Full Stack Web Developer passionate about building interactive and user-ce
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmanKaur1011&theme=dark)
+
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanKaur1011&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanKaur1011&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmanKaur1011&theme=dark)
 
 
 
@@ -25,7 +25,5 @@ I'm a Full Stack Web Developer passionate about building interactive and user-ce
 
 ![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
- <!-- ![cute girl coding](np9f_leld_220705.jpg)
- <img src="np9f_leld_220705.jpg" height="500px" alt="cute girl coding"> -->
- 
+
 
