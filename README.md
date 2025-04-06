@@ -8,8 +8,8 @@ I'm a Full Stack Web Developer passionate about building interactive and user-ce
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanKaur1011&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanKaur1011&layout=compact)
 
 📫 How to reach me:  
 [LinkedIn](https://www.linkedin.com/in/your-profile)  
