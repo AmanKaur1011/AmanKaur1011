@@ -14,13 +14,12 @@ I'm a Full Stack Web Developer passionate about building interactive and user-ce
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanKaur1011&layout=compact)
 
-# My Projects
+# 🚀 My Projects
 
 Welcome to my collection of projects! Below are some of the notable projects that I have worked on. Feel free to explore and learn more about them.
 
 ---
 
-## 🚀 Projects
 
 ### 1. [**Interactive Portfolio Website**](https://github.com/AmanKaur1011/reactfrontend)
 **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js), HTML, CSS, JavaScript  
@@ -30,7 +29,7 @@ A dynamic personal portfolio website built using the MERN stack, featuring proje
 
 ---
 
-### 2. [**Travel Guide Application**](https://github.com/yourusername/e-commerce)
+### 2. [**Travel Guide Application**](https://github.com/AmanKaur1011/TravelGuideAPIProject)
 **Tech Stack:**  Node.js, Express, MongoDB, Google PlacesAPI, Pexels API, RestCounties API, Bootstrap  
 A responsive web application for travel enthusiasts, enabling users to explore countries and access detailed information about tourist attractions within selected destinations. 
   
@@ -74,6 +73,7 @@ Feel free to explore and get in touch if you have any questions or would like to
 
 
 
+---
 
 📫 **How to reach me:**
 
