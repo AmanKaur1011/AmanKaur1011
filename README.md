@@ -11,7 +11,8 @@ I'm a Full Stack Web Developer passionate about building interactive and user-ce
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanKaur1011&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanKaur1011&layout=compact)
 
-![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Aman's Contribution Calendar](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=github)
+
 
 
 📫 **How to reach me:**
@@ -20,8 +21,9 @@ I'm a Full Stack Web Developer passionate about building interactive and user-ce
 [🌐 Portfolio Website](https://portfolioamanpreet.onrender.com/)  
 [✉️ Email](mailto:aman1011d@gmail.com)
 
+![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
- <!-- ![cute girl coding](np9f_leld_220705.jpg)-->
- <img src="np9f_leld_220705.jpg" height="500px" alt="cute girl coding">
+ <!-- ![cute girl coding](np9f_leld_220705.jpg)
+ <img src="np9f_leld_220705.jpg" height="500px" alt="cute girl coding"> -->
  
 
