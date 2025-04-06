@@ -11,6 +11,9 @@ I'm a Full Stack Web Developer passionate about building interactive and user-ce
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanKaur1011&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanKaur1011&layout=compact)
 
+![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 📫 **How to reach me:**
 
 [💼 LinkedIn](https://www.linkedin.com/in/amanpreetkaurdhindsa/)  
