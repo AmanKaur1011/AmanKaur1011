@@ -16,10 +16,6 @@ I'm a Full Stack Web Developer passionate about building interactive and user-ce
 [Portfolio Website](https://yourportfolio.com)  
 [Email](mailto:aman1011d@gmail.com)
 
-- 🎓I graduated with a Software Engineering diploma.
-- 💻I'm currently learning web development.
-- 💼I currently work with Amazon.
-- ☺️I love coding and learning new stuff about web development and learning new languages.
  <!-- ![cute girl coding](np9f_leld_220705.jpg)-->
  <img src="np9f_leld_220705.jpg" height="500px" alt="cute girl coding">
  
