@@ -83,5 +83,5 @@ Feel free to explore and get in touch if you have any questions or would like to
 
 ![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
+---
 
