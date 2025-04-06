@@ -11,10 +11,12 @@ I'm a Full Stack Web Developer passionate about building interactive and user-ce
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanKaur1011&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanKaur1011&layout=compact)
 
-📫 How to reach me:  
-[LinkedIn](https://www.linkedin.com/in/your-profile)  
-[Portfolio Website](https://yourportfolio.com)  
-[Email](mailto:aman1011d@gmail.com)
+📫 **How to reach me:**
+
+[💼 LinkedIn](https://www.linkedin.com/in/amanpreetkaurdhindsa/)  
+[🌐 Portfolio Website](https://portfolioamanpreet.onrender.com/)  
+[✉️ Email](mailto:aman1011d@gmail.com)
+
 
  <!-- ![cute girl coding](np9f_leld_220705.jpg)-->
  <img src="np9f_leld_220705.jpg" height="500px" alt="cute girl coding">
